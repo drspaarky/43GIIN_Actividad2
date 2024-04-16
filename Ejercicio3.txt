@@ -1,3 +1,6 @@
 Ejercicio3
 Nuevo cambio
+<<<<<<< HEAD
 Modifico el Ejercicio 3.7
+=======
+>>>>>>> Ej3
